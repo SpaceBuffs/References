@@ -2,10 +2,11 @@ GIT ref:
 --------
 
 $ git init
-Initialized empty Git repository in /opt/konnichiwa/.git/
+	Initialized empty Git repository
 
 $ git clone <url>
-Initialized empty Git repository in /private/tmp/simplegit/.git/
+
+	Initialized empty Git repository
 
 $ git add . 
 
