@@ -2,11 +2,9 @@ GIT ref:
 --------
 
 $ git init
-	Initialized empty Git repository
 
 $ git clone <url>
 
-	Initialized empty Git repository
 
 $ git add . 
 
